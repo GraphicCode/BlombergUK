@@ -1,0 +1,182 @@
+body {
+	margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #ededed;
+}
+.container {
+	margin:auto;
+	background-color: white;
+	width: 1170px;
+	height: 1400px;
+
+}
+#moveImg {
+margin:auto;
+text-align: center;
+
+}
+.logo {
+	float: left;
+	margin-top: 25px;
+	margin-left: 45px;
+}
+#moveImg {
+	margin:auto;
+    text-align: center;
+
+}
+.topLayer  {
+	margin: auto;
+	color: white;
+	text-align: center;
+	width: 1160px;
+	height: 88px;
+	padding: 5px;
+	background-color: red;
+}
+
+#imgArray {
+	padding: 8px;
+	margin:auto;
+	margin-bottom: 10px;
+	margin-right: 1px;
+	text-align: center;
+	display: inline-block;
+	font-size: 5px;
+}
+#h1Properties {
+    padding: 11px;
+    background-color: red;
+    width: 1148px;
+	height: 35px;
+}
+.cshBackH1 {
+color: white;
+line-height: 10%;
+}
+
+.redBtn{
+	display: inline-block;
+	width: 330px;
+	height: 45px;
+	padding:30px;
+	margin: 10px 0;
+	border-radius: 5px;
+	border: 1px solid #bd1721;
+	background-color: #bd1721;
+	margin-right: 12px;
+	margin-top: 10px;
+}
+#clickhere {
+	margin-left: 40px;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+
+
+}
+#claim {
+	color: white;
+	font-size: 15px;
+	margin-left: 65px;
+	font-weight: bold;
+
+}
+#paraG {
+	width: 760px;
+	height: 60px;
+	display: inline-block;
+}
+.imgContainer {
+	margin: auto;
+	text-align: center;
+	width: 1180px;
+	height: 662px;
+}
+p {
+	color: black;
+	font-size: 15px;
+	font-weight: bold;
+}
+.paraAndBtn {
+
+	display: inline-block;
+	width: 1170px;
+	height: 150px;
+
+}
+
+.imgAlts {
+	display: inline-block;
+	width: 300px;
+	height: 20px;
+	border: 1px solid #bd1721;
+	background-color: #bd1721;
+	margin-right: 12px;
+	margin-top: 700px;
+	margin-right: 390px;
+	margin-bottom: 390px;
+	position: absolute;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+
+
+}
+
+#rB {
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #bd1721;
+    background: #bd1721;
+    color: white;
+
+}
+#rr {
+	color: red;
+}
+
+input {
+	margin-bottom: 5px;
+	border: none;
+    background-color: #fff;
+    width: 140px;
+    padding: 5px 0 5px 5px;
+}
+
+button {
+	margin-bottom: 5px;
+	border: none;
+    background: none;
+    padding: 0;
+}
+input {
+	float: right;
+	margin-top: 30px;
+	margin-right: 70px;
+}
+
+input[type=text] {
+	padding:5px; 
+	border:2px 
+	solid #ccc; 
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+a {
+	text-decoration: none;
+}
+
+
+
